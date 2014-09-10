@@ -20,5 +20,5 @@ Usable manual:<br>
 1) download process_killer.so<br>
 2) copy process_killer.so from pugins folder in samp server<br>
 3) open u pwn file or create new include file<br>
-4) write native process_kill (procname[]);<br>
-5) use process_kill (procname);
+4) write native kill_proc (procname[]);<br>
+5) use kill_proc (procname);
